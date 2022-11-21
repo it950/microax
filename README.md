@@ -2,7 +2,7 @@
 
 ## We have been serving the jewelry industry for 10 years.
 
-Contact: 1306255385@qq.com
+Welcom you contact me: 1306255385@qq.com
 
 ![image](https://user-images.githubusercontent.com/15027134/163702732-f2e0b404-0191-4190-a63e-99089cbb99ff.png)
 
