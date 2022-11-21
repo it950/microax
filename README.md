@@ -1,8 +1,6 @@
 # Micro ax is an ERP system and learned from microsoft's **dynamics 365** and **dynamics ax**.
 
-Because **dynamics 365** is designed for giant corporation business, so how to make this **excellent design** for small and medium enterprise? 
-
-We have been serving the jewelry industry for 10 years.
+## We have been serving the jewelry industry for 10 years.
 
 Contact: 1306255385@qq.com
 
