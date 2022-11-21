@@ -1,4 +1,4 @@
-# Micro ax is an ERP system and learned from microsoft's **dynamics 365** and **dynamics ax**.
+# Micro ax is an erp system and learned from microsoft's **dynamics 365** and **dynamics ax**.
 
 ## We have been serving the **jewelry industry** for 10 years.
 
