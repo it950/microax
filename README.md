@@ -4,11 +4,8 @@
 
 Welcom you contact me: 1306255385@qq.com
 
-Video
+![Sales order create](https://user-images.githubusercontent.com/15027134/203580909-c9d1f275-7ded-409a-babd-cf1e71f02858.gif)
 
-[Sales order create](https://github.com/it950/microax/blob/master/sales%20order%20create.mp4)
-
-[Prod order create](https://github.com/it950/microax/blob/master/prod%20order%20create.mp4)
 
 ![dynamics 365 main-1](https://user-images.githubusercontent.com/15027134/202984021-46e7450c-6922-4502-bc89-7172b4ac1ff9.png)
 ![sales create](https://user-images.githubusercontent.com/15027134/202984753-730e6b3c-adde-48a2-9ed3-6b13134554cc.png)
