@@ -6,8 +6,13 @@ Welcom you contact me: 1306255385@qq.com
 
 ## Demo 
 
-![](https://user-images.githubusercontent.com/15027134/203580909-c9d1f275-7ded-409a-babd-cf1e71f02858.gif)
+![sales-order](https://user-images.githubusercontent.com/15027134/203893517-6662f275-db26-4725-bc8b-0fce853743a6.gif)
 
+![prod-order](https://user-images.githubusercontent.com/15027134/203893534-801297be-80cc-4be5-9d86-89b2ff513fbd.gif)
+
+![pickingslip](https://user-images.githubusercontent.com/15027134/203893548-f29c317d-b603-46cd-b44e-5308e23cb07c.gif)
+
+![item-in-out-record](https://user-images.githubusercontent.com/15027134/203893558-c63bea5a-ccfc-41ec-b1d3-ad45f398217c.gif)
 
 ![dynamics 365 main-1](https://user-images.githubusercontent.com/15027134/202984021-46e7450c-6922-4502-bc89-7172b4ac1ff9.png)
 ![sales create](https://user-images.githubusercontent.com/15027134/202984753-730e6b3c-adde-48a2-9ed3-6b13134554cc.png)
