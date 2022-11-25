@@ -7,8 +7,8 @@
 ### If you have jewelry design, production, sales and other needs, you can also contact us.
 ### 如果您有珠宝设计、生产、销售等方面的需求，也可以联系我们。
 
-### 联系我们: 1306255385@qq.com
 ### Contact us: 1306255385@qq.com
+### 联系我们: 1306255385@qq.com
 
 ## Demo 
 
