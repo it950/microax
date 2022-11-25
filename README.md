@@ -1,8 +1,14 @@
-# Micro ax is an erp system and learned from microsoft's **dynamics 365** and **dynamics ax**.
+### Micro ax is an erp system and learned from microsoft's **dynamics 365**.
+### Micro ax借鉴微软dynamics 365的管理和设计理念，为中小型企业提供灵活、经济、高效的信息化解决方案。
 
-## We have been serving the **jewelry industry** for 10 years.
+### We are mainly used in the **jewelry manufacturing industry**, for gold production line, silver production line to provide a full range of system solutions.
+### 我们主要应用在珠宝生产制造行业，为K金生产线、银饰生产线提供全方位的系统解决方案。
 
-Welcom you contact me: 1306255385@qq.com
+### If you have jewelry design, production, sales and other needs, you can also contact us.
+### 如果您有珠宝设计、生产、销售等方面的需求，也可以联系我们。
+
+### 联系我们: 1306255385@qq.com
+### Contact us: 1306255385@qq.com
 
 ## Demo 
 
