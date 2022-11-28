@@ -2,9 +2,9 @@
 
 > We are mainly used in the **jewelry manufacturing industry**, 
 >
-> for **gold production line**, **silver production line** to provide a full range of system solutions.
+> such as **gold production**, **silver production** to provide a full range of system solutions.
 >
-> If you have **jewelry design, production, sales and other needs**, you can also contact us.
+> We alse make **jewlery design, jewelry product, and jewelry sales**, if you have some of needs, you can contact us.
 
 > Micro ax借鉴微软dynamics 365的管理和设计理念，为中小型企业提供灵活、经济、高效的信息化解决方案。
 >
