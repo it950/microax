@@ -16,6 +16,13 @@
 
 ## Demo 
 
+[Demo url used for test](http://106.12.108.119:9008/)
+
+User Id: Test
+
+Password: test
+
+
 ![sales-order](https://user-images.githubusercontent.com/15027134/203893517-6662f275-db26-4725-bc8b-0fce853743a6.gif)
 
 ![prod-order](https://user-images.githubusercontent.com/15027134/203893534-801297be-80cc-4be5-9d86-89b2ff513fbd.gif)
