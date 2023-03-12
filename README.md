@@ -16,7 +16,7 @@
 
 ## Demo 
 
-[Demo url used for test](http://106.12.108.119:9008/)
+[Demo Url](http://106.12.108.119:9008/)
 
 User Id: Test
 
