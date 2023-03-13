@@ -18,9 +18,7 @@
 
 [Demo Url](http://106.12.108.119:9008/)
 
-User Id: Test
-
-Password: test
+**User Id**: Test **Password**: test
 
 
 ![sales-order](https://user-images.githubusercontent.com/15027134/203893517-6662f275-db26-4725-bc8b-0fce853743a6.gif)
