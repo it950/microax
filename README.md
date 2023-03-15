@@ -12,14 +12,20 @@
 >
 > 如果您有珠宝设计、生产、销售等方面的需求，也可以联系我们。
 
-#### Contact : 1306255385@qq.com
+#### Contact(联系): 1306255385@qq.com
+
+## Modules(模块):
+- Account Receivable(销售应收)
+- Account Payable(采购应付)
+- Inventory Management(库存管理)
+- Production(生产管理)
+- You can visit the demo url for detailed infomation about the system
 
 ## Demo 
 
 [Demo Url](http://106.12.108.119:9008/)
 
 **User Id**: Test **Password**: test
-
 
 ![sales-order](https://user-images.githubusercontent.com/15027134/203893517-6662f275-db26-4725-bc8b-0fce853743a6.gif)
 
