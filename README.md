@@ -18,12 +18,7 @@
 - RFID设计与开发
 
 ## 在线试用
-[点击访问](http://106.12.108.119:9008/)
->
-> **User Id**: Test
-> 
-> **Password**: test
-> 
+Please contact us by email(1306255385@qq.com)
 
 
 ## 功能展示 详细访问[在线试用](http://106.12.108.119:9008/ "试用")
